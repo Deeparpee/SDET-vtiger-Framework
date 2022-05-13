@@ -16,13 +16,5 @@ public class CampaignTest {
 	public void editCampaignTest()
 	{
 		System.out.println("Campaign edited");
-	}
-	@Test(groups="regressionTest")
-	//delete campaign
-	public void deletCampaignTest()
-	{
-		System.out.println("Campaign deleted");
-	}
-	
-
+	}	
 }
