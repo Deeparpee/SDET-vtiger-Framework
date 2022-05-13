@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>com.vtiger.Framework</name>
+=======
+	<name>comCastFrameWork2</name>
+>>>>>>> branch 'master' of https://github.com/Deeparpee/SDET-vtiger-Framework.git
 	<comment></comment>
 	<projects>
 	</projects>

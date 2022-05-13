@@ -12,12 +12,13 @@ public class CampaignTest {
 		System.out.println(someParameter);
 		System.out.println(url);
 	}
-	@Test(groups="regressionTest")
+    @Test(groups="regressionTest")
 	public void editCampaignTest()
 	{
 		System.out.println("Campaign edited");
 	}
 	@Test(groups="regressionTest")
+	//delete campaign
 	public void deletCampaignTest()
 	{
 		System.out.println("Campaign deleted");
